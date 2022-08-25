@@ -1,0 +1,5 @@
+jadi, fedora
+linux, fedora
+bob, ubuntu
+jack, arch
+sara, fedora
